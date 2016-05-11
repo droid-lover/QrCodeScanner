@@ -16,6 +16,6 @@ and it will generate a Sparse Array (where most of the elements contains default
 and we will check the size of this sparse array , if it is not null our app will generate the equivalent value of the QrCode . 
 
 Thanks 
-- maker is jarvis here 
+- maker is jarvis (sachin) here 
 
 
